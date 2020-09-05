@@ -1,0 +1,1 @@
+{'fps': 1500, 'lines': False, 'speed': 15, 'user_controlled': False, 'show_stats': True}
